@@ -96,3 +96,7 @@ cask "miniconda"
 cask "otx"
 # Terminal emulator
 cask "wave"
+
+cask "inkscape"
+
+brew "1password-cli"
